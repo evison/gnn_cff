@@ -1,8 +1,7 @@
-# gnn_cff
+# Code for paper "Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning (WWW 2022)"
 ## Overall
 Pytorch implementation for paper 
-"Learning and Evaluating Graph Neural Network Explanations
-based on Counterfactual and Factual Reasoning".
+"Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning".
 
 ![](pic/overview.png)
 ### Paper link: 
