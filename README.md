@@ -1,4 +1,4 @@
-# Code for paper "Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning (WWW 2022)"
+# Code for paper CF^2: "Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning (WWW 2022)"
 ## Overall
 Pytorch implementation for paper 
 "Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning".
